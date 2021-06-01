@@ -6,4 +6,7 @@
 
 ## 6월 1일 1커밋 
 
-[백준 알고리즘 사이트](https://www.acmicpc.net/school/ranklist/202) 경북대 랭킹 올려보기 ->6월,7월,8 
+[백준 알고리즘 사이트](https://www.acmicpc.net/school/ranklist/202) 경북대 랭킹 올려보기 ->6월,7월,8월 
+
+
+
