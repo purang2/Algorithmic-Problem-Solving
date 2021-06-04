@@ -1,4 +1,7 @@
-# Algorithmic-Problem-Solving
+# 🙄Algorithms 
+
+- 더 좋은 개발자가 되기 위하여 .... 
+- 계속 하다 보면 재밌다.. 
 
 
 
